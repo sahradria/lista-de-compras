@@ -1,0 +1,7 @@
+# LISTA DE COMPRAS
+## LISTA QUE IREMOS FAZER DE INTRODUÇÃO AO GIT
+
+-banana
+-acuçar
+-arroz
+-sal
